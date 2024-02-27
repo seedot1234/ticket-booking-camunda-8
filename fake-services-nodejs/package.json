@@ -15,5 +15,8 @@
     "express": "^4.17.1",
     "uuid": "^8.3.2",
     "zeebe-node": "2.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
   }
 }
